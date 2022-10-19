@@ -1,9 +1,11 @@
 # Getting Started with GitHub and Creating Branches
-This is an example website for Contao Open Source CMS. It can be installed with
-the Contao Manager. Visit the [project website][1] for more information.
 
+GitHub overview
+Before we learn to use GitHub, let's first review Git. Git is an open source version-control system for software development. It is simply a place where you can collect all your folders and files for a project. This collection of folders and files is usually called a repository.
 
-[1]: https://contao.org
+GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command-line tool and you also need to host and maintain a server using the command line, GitHub provides the Git server for you, as well as a web-based graphical interface. It also provides access control and several collaboration features, such as wikis and basic task management tools, for every project.
+
+GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. GitHub includes a free plan for individual developers and for hosting open source projects.
 
 ## About this theme
 
